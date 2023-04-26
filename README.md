@@ -1,2 +1,2 @@
 # AR-art-demo
-Augmented Reality projections of layers imported from Adobe illustrator on the printed poster. Using Unity and Vuforia
+Augmented Reality projections of layers imported from Adobe illustrator on the printed poster. Using Unity and Vuforia.
